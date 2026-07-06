@@ -1,0 +1,14 @@
+[
+    {
+        "line": "17:05:11.705 TX[avionics/offboard/telemetry] {\"activeLink\":\"A2G\",\"deviceId\":\"OFFBOARD-SIM-001\",\"mode\":\"DEGRADED\",\"payload\":{\"airspeedKt\":133.73310760654212,\"altitudeFt\":4423.6912236368435,\"fuelGal\":58.88,\"latitude\":28.65359880000937,\"longitude\":77.21389951812081,\"phase\":\"CRUISE\",\"windKt\":14.873681022171757},\"schemaVersion\":\"1.0\",\"sequence\":361,\"timestampUtc\":\"2026-07-06T11:35:11.704Z\",\"transport\":\"MQTT\",\"type\":\"telemetry\"}",
+        "timestamp": "2026-07-06T11:35:11.705Z"
+    },
+    {
+        "line": "17:05:12.160 TX[avionics/offboard/telemetry] {\"activeLink\":\"A2G\",\"deviceId\":\"OFFBOARD-SIM-001\",\"mode\":\"DEGRADED\",\"payload\":{\"airspeedKt\":133.2806401847901,\"altitudeFt\":4431.587629604697,\"fuelGal\":58.86,\"latitude\":28.65363672538142,\"longitude\":77.21358177432462,\"phase\":\"CRUISE\",\"windKt\":14.91213897255615},\"schemaVersion\":\"1.0\",\"sequence\":363,\"timestampUtc\":\"2026-07-06T11:35:12.160Z\",\"transport\":\"MQTT\",\"type\":\"telemetry\"}",
+        "timestamp": "2026-07-06T11:35:12.160Z"
+    },
+    {
+        "line": "17:05:12.573 TX[avionics/offboard/telemetry] {\"activeLink\":\"A2G\",\"deviceId\":\"OFFBOARD-SIM-001\",\"mode\":\"DEGRADED\",\"payload\":{\"airspeedKt\":132.82484253983716,\"altitudeFt\":4439.558529883185,\"fuelGal\":58.84,\"latitude\":28.65367210761661,\"longitude\":77.21326373729643,\"phase\":\"CRUISE\",\"windKt\":14.943696924182241},\"schemaVersion\":\"1.0\",\"sequence\":365,\"timestampUtc\":\"2026-07-06T11:35:12.572Z\",\"transport\":\"MQTT\",\"type\":\"telemetry\"}",
+        "timestamp": "2026-07-06T11:35:12.573Z"
+    }
+]
